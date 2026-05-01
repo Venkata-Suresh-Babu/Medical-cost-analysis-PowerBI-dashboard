@@ -3,7 +3,7 @@
 I built and analyzed a Medical Cost Analysis Dashboard to uncover how demographics, diseases, and insurance types drive healthcare costs. Here’s the story the data told me 👇
 Insights derived from my Power BI dashboard
 
-<img width="1282" height="720" alt="image" src="https://github.com/user-attachments/assets/8f5bdddf-cbeb-4ddc-a95c-9637b0574598" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c443ee11-71d0-4cdd-857b-5f6902a43db3" />
 
 
 ## 🔹 1. **Gender & BMI: Small Differences, Big Signals**
@@ -15,6 +15,8 @@ The largest BMI gap appears in the 20–30 age group, where females exceed males
 Among seniors (70+), females make up 7.7% of the maximum BMI distribution, highlighting higher obesity risk in later years.
 
 📌 Insight: Early adulthood is a critical intervention window, especially for women, before risks compound with age.
+
+<img width="1282" height="720" alt="image" src="https://github.com/user-attachments/assets/8f5bdddf-cbeb-4ddc-a95c-9637b0574598" />
 
 ## 🔹 2. **Heart Disease: Costly, Gender-Skewed, and Predictable**
 
