@@ -1,7 +1,6 @@
-# Medical-cost-prediction-dashboard
-Medical cost predication analysis
+# Medical Cost Analysis Dashboard
 
-I built and analyzed a Medical Cost Prediction Dashboard to uncover how demographics, diseases, and insurance types drive healthcare costs. Here’s the story the data told me 👇
+I built and analyzed a Medical Cost Analysis Dashboard to uncover how demographics, diseases, and insurance types drive healthcare costs. Here’s the story the data told me 👇
 Insights derived from my Power BI dashboard
 
 <img width="1218" height="684" alt="image" src="https://github.com/user-attachments/assets/a56f615f-e420-4367-8dff-56ee8eaeabc9" />
