@@ -71,4 +71,4 @@ Smoking rates remain similar across insurance types, but privately insured heart
 <img width="1280" height="716" alt="image" src="https://github.com/user-attachments/assets/75225bda-3773-47c0-beb3-9af4a8787619" />
 
 
-# Thankk You
+# Thank You
