@@ -3,10 +3,10 @@
 I built and analyzed a Medical Cost Analysis Dashboard to uncover how demographics, diseases, and insurance types drive healthcare costs. Here’s the story the data told me 👇
 Insights derived from my Power BI dashboard
 
-<img width="1218" height="684" alt="image" src="https://github.com/user-attachments/assets/a56f615f-e420-4367-8dff-56ee8eaeabc9" />
+<img width="1282" height="720" alt="image" src="https://github.com/user-attachments/assets/8f5bdddf-cbeb-4ddc-a95c-9637b0574598" />
 
 
-🔹 1. **Gender & BMI: Small Differences, Big Signals**
+## 🔹 1. **Gender & BMI: Small Differences, Big Signals**
 
 Females slightly outnumber males (50.38% vs 49.62%), yet average max BMI is higher for females (40.67) than males (40.21).
 
@@ -16,7 +16,7 @@ Among seniors (70+), females make up 7.7% of the maximum BMI distribution, highl
 
 📌 Insight: Early adulthood is a critical intervention window, especially for women, before risks compound with age.
 
-🔹 2. **Heart Disease: Costly, Gender-Skewed, and Predictable**
+## 🔹 2. **Heart Disease: Costly, Gender-Skewed, and Predictable**
 
 Total heart disease patients: 711, with males accounting for 51.05%.
 
@@ -26,10 +26,10 @@ Interestingly, avg cost of heart disease and non-heart disease are negatively co
 
 📌 Insight: Preventive care targeting male populations could significantly reduce long-term healthcare expenditure.
 
-<img width="1220" height="682" alt="image" src="https://github.com/user-attachments/assets/bd8f6da6-ee08-40d4-ae8c-3f41c94e74e4" />
+<img width="1278" height="715" alt="image" src="https://github.com/user-attachments/assets/f984bc02-59ab-4af3-bf5a-795366ea5970" />
 
 
-🔹 3. **Age, Asthma & Hypertension: A Compounding Effect**
+## 🔹 3. **Age, Asthma & Hypertension: A Compounding Effect**
 
 The 70+ age group dominates asthma cases, with 656% more patients than ages 18–20.
 
@@ -45,9 +45,10 @@ Without asthma: $7,991 avg cost
 
 📌 Insight: Chronic conditions don’t act alone — they stack, amplifying both risk and cost.
 
-<img width="1216" height="676" alt="image" src="https://github.com/user-attachments/assets/99c01f5a-42ff-4ab3-98d4-efafe89932c0" />
+<img width="1279" height="715" alt="image" src="https://github.com/user-attachments/assets/6c6939f0-a03a-40f5-9701-195ba4d804f1" />
 
-🔹 4. **Insurance Type: The Hidden Cost Multiplier**
+
+## 🔹 4. **Insurance Type: The Hidden Cost Multiplier**
 
 Uninsured (“None”) patients drive nearly 50% of total medical costs (~$20M).
 
@@ -59,7 +60,7 @@ Government: $6.8K
 
 Private: $3.4K
 
-<img width="1220" height="681" alt="image" src="https://github.com/user-attachments/assets/b1d1884b-7111-4a9e-85c8-ae8985db09fb" />
+<img width="1278" height="717" alt="image" src="https://github.com/user-attachments/assets/738b5d44-c2a1-45a4-978b-b37d958b58fc" />
 
 At younger ages, uninsured patients show up to 457% higher avg costs than privately insured.
 
@@ -67,8 +68,7 @@ Smoking rates remain similar across insurance types, but privately insured heart
 
 📌 Insight: Lack of insurance isn’t just a social issue — it’s a financial risk amplifier for the entire healthcare system.
 
+<img width="1280" height="716" alt="image" src="https://github.com/user-attachments/assets/75225bda-3773-47c0-beb3-9af4a8787619" />
 
-<img width="1297" height="772" alt="image" src="https://github.com/user-attachments/assets/07d1d55d-1590-48fe-910f-470db12edf72" />
 
-
-<img width="1222" height="686" alt="image" src="https://github.com/user-attachments/assets/6beb876e-f30c-4802-9e35-9abe15989324" />
+# Thankk You
